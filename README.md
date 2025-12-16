@@ -16,8 +16,8 @@ PostgreSQL 18+ с правами на создание базы данных
 
 Шаг 1: Клонирование репозитория
 bash
-git clone https://github.com/yourusername/clinic-management-system.git
-cd clinic-management-system
+git clone https://github.com/MaryKa858/KURSOVAYA_RABOTA.git
+cd KURSOVAYA_RABOTA
 
 Настройка базы данных PostgreSQL
 -- 1. Создание базы данных
